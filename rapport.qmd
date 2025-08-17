@@ -284,7 +284,7 @@ Choisissez 3 problèmes :
 ```{julia}
 g100, H100 = get_gH("CVXQP1_S.SIF")
 g10, h10 = get_gH("DUALC1.SIF")
-g50, h50 = get_gH("qafiro.SIF")
+g50, h50 = get_gH("QAFIRO.SIF")
 ```
 
 Attention :
